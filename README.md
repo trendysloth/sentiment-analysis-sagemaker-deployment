@@ -1,5 +1,3 @@
-# [License](https://github.com/eswar3/sentiment-analysis-sagemaker-deployment/blob/master/LICENSE)
-
 # Deploying a Sentiment Analysis Model
 
 ## Project Overview
